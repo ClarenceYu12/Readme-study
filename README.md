@@ -15,6 +15,20 @@
 
 ## Installation
 
+### Windows:
+
+**Download Android studio:**
+
+- Visit the official Android Studio download page.
+- Click on the "Download Android Studio" button.
+- Follow the on-screen instructions to download the installer.
+
+**Run the Installer:**
+
+- Once the download is complete, run the installer executable.
+- Follow the installation wizard instructions.
+- You may need to choose the components you want to install, such as Android Studio and Android Virtual Device (AVD).
+
 ## Usage
 
 ## Features
